@@ -22,8 +22,14 @@ nav ul{
     border: 2px solid red;
     background-color: white;
 }
+.brand{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid green;
+}
 .brand img{
-    width: 100%;
+    width: 80%;
     display: flex;
     /* border: 2px solid green; */
 }
