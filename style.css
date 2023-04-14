@@ -44,5 +44,6 @@ nav ul li{
     margin: 2px 10px;
 }
 nav ul li a{
-    
+    color: black;
+    text-decoration: none;
 }
